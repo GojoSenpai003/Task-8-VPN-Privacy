@@ -1,0 +1,31 @@
+Task 8 – VPN Privacy and Security Report (UrbanVPN)
+
+VPN Used:
+- UrbanVPN (Free VPN Service)
+
+Steps Performed:
+1. Opened UrbanVPN and connected to a server in the United States.
+2. Verified new IP address using whatismyipaddress.com.
+3. Browsed websites with encrypted traffic through VPN tunnel.
+4. Disconnected VPN and verified original IP restored.
+5. Noted difference in speed and access.
+
+Observations:
+- IP address was successfully masked.
+- Web traffic was encrypted and routed through US-based VPN server.
+- Slight browsing slowdown occurred while VPN was active.
+- UrbanVPN interface was simple to use but includes ads.
+
+Benefits of Using UrbanVPN:
+- Hides actual IP address and location
+- Protects browsing on public or insecure networks
+- Access to geographically restricted content
+
+Limitations:
+- Contains ads and background processes
+- May not be zero-log (privacy unclear)
+- Speed may vary based on location/server load
+- No user control over tunneling protocol
+
+Learning Outcome:
+Learned how VPNs like UrbanVPN work to secure data and mask IP. Gained practical experience in verifying VPN effectiveness using IP tools and browser testing.
